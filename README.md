@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-aveiro-a68057278/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aveiromat/) <br/>
 
-Começando no mundo da programação com muito entuasismo. Amo aprender e estou sempre disposto a fazer algo novo.
+Começando no mundo da programação com muito entuasismo. Amo aprender e estou sempre disposto a melhorar.
 
 ![Aveiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aveiromat&show_icons=true&theme=tokyonight)
 
