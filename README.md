@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Aveiro 😁👋
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-aveiro-a68057278/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aveiromat/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aveiromat/) <br/>
 
 Começando no mundo da programação com muito entuasismo. Amo aprender e estou sempre disposto a melhorar.
