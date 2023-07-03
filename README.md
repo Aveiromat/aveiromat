@@ -6,7 +6,7 @@
 
 Começando no mundo da programação com muito entuasismo. Amo aprender e estou sempre disposto a melhorar.
 
-![Aveiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=aveiromat&show_icons=true&theme=tokyonight)
+![Aveiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aveiromat&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia a dia:
 
