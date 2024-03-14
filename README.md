@@ -6,10 +6,10 @@ Sou um entusiasta brasileiro de tecnologia e desenvolvimento de software, compro
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aveiromat/) <br/>
 
 ### 🛠️ Tecnologias
-Linguagens: Python (principal foco), HTML, CSS, JavaScript.
+Ferramentas: React, Vue, Jest, Prettier
 Idiomas: Inglês avançado para uma comunicação eficaz.
 💼 Experiência
-Atualmente, concentro-me no desenvolvimento usando Python, explorando suas possibilidades em projetos inovadores. Além disso, mantenho conhecimentos sólidos em HTML, CSS e JavaScript.
+Atualmente, meu foco é no desenvolvimento front-end com React e Vue. Meu nível de inglês é B1, permitindo uma comunicação eficaz no ambiente de trabalho.
 
 ### 🌐 Colaboração e Desafios
 Acredito que minha abordagem bem-humorada e receptiva contribui para um ambiente de trabalho colaborativo. Encaro desafios de frente, buscando soluções criativas para problemas complexos. Sempre que me deparo com um obstáculo, empenho-me em resolvê-lo com o melhor das minhas habilidades. 😁
