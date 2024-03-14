@@ -5,11 +5,11 @@ Sou um entusiasta brasileiro de tecnologia e desenvolvimento de software, compro
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aveiromat/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aveiromat/) <br/>
 
+
 ### 🛠️ Tecnologias
-Ferramentas: React, Vue, Jest, Prettier
-Idiomas: Inglês avançado para uma comunicação eficaz.
-💼 Experiência
-Atualmente, meu foco é no desenvolvimento front-end com React e Vue. Meu nível de inglês é B1, permitindo uma comunicação eficaz no ambiente de trabalho.
+Ferramentas: React, Vue, Jest, Prettier <br/>
+Idiomas: Inglês avançado para uma comunicação eficaz. <br/> <br/>
+[![Portifólio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://linktree-aveiro.vercel.app)
 
 ### 🌐 Colaboração e Desafios
 Acredito que minha abordagem bem-humorada e receptiva contribui para um ambiente de trabalho colaborativo. Encaro desafios de frente, buscando soluções criativas para problemas complexos. Sempre que me deparo com um obstáculo, empenho-me em resolvê-lo com o melhor das minhas habilidades. 😁
