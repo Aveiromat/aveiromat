@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Matheus Aveiro 👋</h1>
   <h3>🎉 Eii, que bom te ver por aqui!</h3>
-  <img src="https://64.media.tumblr.com/687caeb935259a4be73d5fc5e20957e3/6d15226ba214451c-4e/s500x750/0438fba4057b246b745c8292e1f1460c916b1b17.gif">
+  <img src="https://64.media.tumblr.com/687caeb935259a4be73d5fc5e20957e3/6d15226ba214451c-4e/s500x750/0438fba4057b246b745c8292e1f1460c916b1b17.gif" width="250">
 </div>
 
 ---
@@ -9,6 +9,7 @@
 ### ☕ Sobre Mim
 Sou desenvolvedor **Full Stack** com uma habilidade especial em transformar café (ou chá, sem preconceitos) em código de alta qualidade! 💻
 
+* 🌐 **Meu Site:** [aveiro.vercel.app](https://aveiro.vercel.app/)
 * 📍 Morando em **Balneário Camboriú – SC**.
 * 🚀 Focado em criar projetos responsivos que funcionam perfeitamente em qualquer tela.
 * 🏴‍☠️ Sempre pronto para um papo sobre tecnologia ou para discutir quem é o melhor piloto de *One Piece*.
@@ -26,9 +27,12 @@ Sou desenvolvedor **Full Stack** com uma habilidade especial em transformar caf�
 ---
 
 ### 📬 Vamos transformar ideias em realidade?
-Me chama para trocar uma ideia sobre desenvolvimento ou novos projetos:
+Conecte-se comigo ou acesse meu portfólio:
 
 <p align="left">
+  <a href="https://aveiro.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/aveiromat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
