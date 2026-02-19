@@ -9,7 +9,7 @@
 ### ☕ Sobre Mim
 Sou desenvolvedor **Full Stack** com uma habilidade especial em transformar café (ou chá, sem preconceitos) em código de alta qualidade! 💻
 
-* 📍 Morando na "Dubai Brasileira" (**Balneário Camboriú – SC**).
+* 📍 Morando em Balneário Camboriú – SC.
 * 🚀 Focado em criar projetos responsivos que funcionam perfeitamente em qualquer tela.
 * 🏴‍☠️ Sempre pronto para um papo sobre tecnologia ou para discutir quem é o melhor piloto de *One Piece*.
 * 💡 **Curiosidade:** Meu GitHub é novinho em folha! O antigo se perdeu no limbo digital 😅, então estou reconstruindo meu portfólio com o que há de melhor.
