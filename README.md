@@ -1,35 +1,49 @@
-# Olá, eu sou o Matheus Aveiro! 👋 🇧🇷
-
-Entusiasta de tecnologia e desenvolvedor de software em constante evolução. Sou movido pela curiosidade técnica e pelo desejo de criar soluções que facilitem a vida das pessoas. 
-
----
-
-### 🚀 Sobre Mim
-- 💻 Atualmente focado em ecossistemas **Frontend** e qualidade de código.
-- 🗣️ **Inglês Avançado:** Comunicação clara para times globais e documentação técnica.
-- 🧠 Adoro resolver problemas complexos com soluções criativas (e um pouco de bom humor).
-- 📈 Buscando sempre o próximo desafio técnico, seja como desenvolvedor ou futuro empreendedor.
+<div align="center">
+  <h1>Matheus Aveiro 👋</h1>
+  <h3>🎉 Eii, que bom te ver por aqui!</h3>
+  <img src="https://64.media.tumblr.com/687caeb935259a4be73d5fc5e20957e3/6d15226ba214451c-4e/s500x750/0438fba4057b246b745c8292e1f1460c916b1b17.gif" width="250">
+</div>
 
 ---
 
-### 🛠️ Minha Toolbox
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) |
-| **Testing/Tooling** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white) |
-| **Workflow** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+### ☕ Sobre Mim
+Sou desenvolvedor **Full Stack** com uma habilidade especial em transformar café (ou chá, sem preconceitos) em código de alta qualidade! 💻
+
+* 📍 Morando na "Dubai Brasileira" (**Balneário Camboriú – SC**).
+* 🚀 Focado em criar projetos responsivos que funcionam perfeitamente em qualquer tela.
+* 🏴‍☠️ Sempre pronto para um papo sobre tecnologia ou para discutir quem é o melhor piloto de *One Piece*.
+* 💡 **Curiosidade:** Meu GitHub é novinho em folha! O antigo se perdeu no limbo digital 😅, então estou reconstruindo meu portfólio com o que há de melhor.
 
 ---
 
-### 🌐 Conecte-se Comigo
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aveiromat/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aveiromat/)
-[![Portifólio](https://img.shields.io/badge/Meu%20Portfólio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://linktree-aveiro.vercel.app)
+### 🛠️ Minha Stack
+| Frontend | Backend & Infra | Ferramentas |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Prettier](https://img.shields. :--- /badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white) |
 
 ---
 
-### 📫 Contato
-Seja para um projeto incrível, um café virtual ou apenas para falar sobre as últimas tendências de TI:
-- **Email:** [matheusaveirofagundes@gmail.com](mailto:matheusaveirofagundes@gmail.com)
+### 📬 Vamos transformar ideias em realidade?
+Me chama para trocar uma ideia sobre desenvolvimento ou novos projetos:
 
-**Vamos criar coisas incríveis juntos! 🚀**
+<p align="left">
+  <a href="https://www.linkedin.com/in/aveiromat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/aveiromat/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:matheusaveirofagundes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🐍 Contribuições no GitHub
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Matheus-Aveiro/Matheus-Aveiro/main/snake.svg" alt="Snake animation" />
+</div>
+
+<p align="center"><b>Vamos criar coisas incríveis juntos! 🚀</b></p>
