@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Matheus Aveiro 👋</h1>
   <h3>🎉 Eii, que bom te ver por aqui!</h3>
-  <img src="https://64.media.tumblr.com/687caeb935259a4be73d5fc5e20957e3/6d15226ba214451c-4e/s500x750/0438fba4057b246b745c8292e1f1460c916b1b17.gif" width="250">
+  <img src="https://64.media.tumblr.com/687caeb935259a4be73d5fc5e20957e3/6d15226ba214451c-4e/s500x750/0438fba4057b246b745c8292e1f1460c916b1b17.gif">
 </div>
 
 ---
