@@ -9,7 +9,7 @@
 ### ☕ Sobre Mim
 Sou desenvolvedor **Full Stack** com uma habilidade especial em transformar café (ou chá, sem preconceitos) em código de alta qualidade! 💻
 
-* 📍 Morando em Balneário Camboriú – SC.
+* 📍 Morando em **Balneário Camboriú – SC**.
 * 🚀 Focado em criar projetos responsivos que funcionam perfeitamente em qualquer tela.
 * 🏴‍☠️ Sempre pronto para um papo sobre tecnologia ou para discutir quem é o melhor piloto de *One Piece*.
 * 💡 **Curiosidade:** Meu GitHub é novinho em folha! O antigo se perdeu no limbo digital 😅, então estou reconstruindo meu portfólio com o que há de melhor.
@@ -17,10 +17,11 @@ Sou desenvolvedor **Full Stack** com uma habilidade especial em transformar caf�
 ---
 
 ### 🛠️ Minha Stack
-| Frontend | Backend & Infra | Ferramentas |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Prettier](https://img.shields. :--- /badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white) |
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) |
+| **Backend & Infra** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Ferramentas** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white) |
 
 ---
 
